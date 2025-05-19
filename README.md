@@ -47,7 +47,7 @@ coffee_shop/
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone git@github.com:MosesMbuki/coffee_shop.git
    cd coffee_shop
 
 ## Validation Rules
